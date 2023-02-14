@@ -1,6 +1,8 @@
 *.exe
 *.sln
 *.vcxproj
+*.vcxproj.user
 
+.vs/
 bin/
 bin-int/

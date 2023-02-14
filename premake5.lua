@@ -79,5 +79,3 @@ workspace "Boron"
         filter "configurations:Distribution"
             buildoptions "/MD"
             optimize "on"
-            
-        
